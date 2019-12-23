@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MBFrameWork_Example' do
+  pod 'MBFrameWork', :path => '../'
+
+  target 'MBFrameWork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
