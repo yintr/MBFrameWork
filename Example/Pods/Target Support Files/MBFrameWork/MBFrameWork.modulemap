@@ -1,0 +1,6 @@
+framework module MBFrameWork {
+  umbrella header "MBFrameWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

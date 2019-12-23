@@ -1,0 +1,16 @@
+PODS:
+  - MBFrameWork (0.1.0)
+
+DEPENDENCIES:
+  - MBFrameWork (from `../`)
+
+EXTERNAL SOURCES:
+  MBFrameWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBFrameWork: 5072cd9a55ff42d107ad0525d1e4d447f929f4d0
+
+PODFILE CHECKSUM: f0950289c99334e8d272de553336db3e49b84fcb
+
+COCOAPODS: 1.8.4
